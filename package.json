@@ -1,0 +1,15 @@
+{
+  "name": "@kosovatools/energy-data",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "fast-xml-parser": "^4.5.1",
+    "tsx": "^4.19.2"
+  },
+  "scripts": {
+    "generate": "tsx ./src/fetch-entsoe.ts --out ./data"
+  },
+  "dependencies": {
+    "@types/node": "^24.10.0"
+  }
+}
