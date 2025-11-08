@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-11-08T18:47:06.156570Z",
+  "datasets": [
+    {
+      "category": "accredited_programmes",
+      "path": "accredited_programmes/programmes_2023_2024.json",
+      "period": "2023-2024",
+      "record_count": 371,
+      "institution_count": 39,
+      "source_url": "https://akreditimi.rks-gov.net/wp-content/uploads/2023/08/AKA-KAA-Proggramet-e-Akredituara-2023-2024.xlsx",
+      "source_file": "raw_data/me/AKA-KAA-Proggramet-e-Akredituara-2023-2024.xlsx",
+      "generated_at": "2025-11-08T18:47:06.156570Z"
+    },
+    {
+      "category": "accredited_programmes",
+      "path": "accredited_programmes/programmes_2025_2026.json",
+      "period": "2025-2026",
+      "record_count": 390,
+      "institution_count": 37,
+      "source_url": "https://akreditimi.rks-gov.net/wp-content/uploads/Tabela-Programet-e-Akredituara-2025-2026_v5.xlsx",
+      "source_file": "raw_data/me/Tabela-Programet-e-Akredituara-2025-2026_v5.xlsx",
+      "generated_at": "2025-11-08T18:47:06.156570Z",
+      "version": "v5"
+    }
+  ]
+}
