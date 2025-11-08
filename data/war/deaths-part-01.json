@@ -3,7 +3,8 @@
     "chunk": 1,
     "count": 100,
     "total": 13548,
-    "next": "deaths-part-02.json"
+    "totalPages": 15,
+    "currentPage": 1
   },
   "records": [
     {
