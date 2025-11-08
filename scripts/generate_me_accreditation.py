@@ -114,6 +114,12 @@ def extract_year(text: str) -> int | None:
     return None
 
 
+def dataset_index_key(item: Dict[str, Any]) -> tuple:
+    period_year = extract_year(item.get("period", "")) or 0
+    # Sort by coverage year (latest first), then category/path for stability
+    return (-period_year, item.get("category"), item.get("path"))
+
+
 def ensure_file(path: Path) -> Path:
     if not path.exists():
         raise FileNotFoundError(f"Missing required source file: {path}")
@@ -229,7 +235,7 @@ def generate_datasets(raw_dir: Path, output_dir: Path) -> None:
             entry["version"] = payload["version"]
         index_entries.append(entry)
 
-    index_entries.sort(key=lambda item: (item["category"], item["period"]))
+    index_entries.sort(key=dataset_index_key)
     write_json(
         output_dir / "index.json",
         {

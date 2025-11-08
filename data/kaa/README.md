@@ -14,6 +14,7 @@ This directory contains derived datasets sourced from the Kosovo Accreditation A
   - `source_url`, `source_file`: Where the Excel workbook originated and the local copy that was parsed.
   - `generated_at`: Timestamp shared with the detailed JSON export.
   - `version` (`string`, optional): Workbook revision tag when available.
+  - Entries appear from the latest coverage period to the oldest so consumers can grab the freshest snapshot first.
 
 ## Regeneration
 

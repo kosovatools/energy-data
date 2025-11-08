@@ -1,0 +1,75 @@
+{
+  "generated_at": "2025-11-09T07:41:45Z",
+  "years": [
+    {
+      "year": 2025,
+      "records_file": "permits_2025.json",
+      "record_count": 58
+    },
+    {
+      "year": 2024,
+      "records_file": "permits_2024.json",
+      "record_count": 169
+    },
+    {
+      "year": 2023,
+      "records_file": "permits_2023.json",
+      "record_count": 153
+    },
+    {
+      "year": 2022,
+      "records_file": "permits_2022.json",
+      "record_count": 177
+    },
+    {
+      "year": 2021,
+      "records_file": "permits_2021.json",
+      "record_count": 171
+    },
+    {
+      "year": 2020,
+      "records_file": "permits_2020.json",
+      "record_count": 162
+    },
+    {
+      "year": 2019,
+      "records_file": "permits_2019.json",
+      "record_count": 86
+    },
+    {
+      "year": 2018,
+      "records_file": "permits_2018.json",
+      "record_count": 102
+    },
+    {
+      "year": 2017,
+      "records_file": "permits_2017.json",
+      "record_count": 100
+    },
+    {
+      "year": 2016,
+      "records_file": "permits_2016.json",
+      "record_count": 161
+    },
+    {
+      "year": 2015,
+      "records_file": "permits_2015.json",
+      "record_count": 158
+    },
+    {
+      "year": 2014,
+      "records_file": "permits_2014.json",
+      "record_count": 83
+    },
+    {
+      "year": 2013,
+      "records_file": "permits_2013.json",
+      "record_count": 112
+    },
+    {
+      "year": 2012,
+      "records_file": "permits_2012.json",
+      "record_count": 100
+    }
+  ]
+}
