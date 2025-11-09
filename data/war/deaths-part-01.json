@@ -8,8 +8,6 @@
   },
   "records": [
     {
-      "firstName": "BESA",
-      "lastName": "ABAZAJ",
       "fullName": "BESA ABAZAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -22,8 +20,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "AHMET",
-      "lastName": "ABAZI",
       "fullName": "AHMET ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -36,8 +32,6 @@
       "ageAtIncident": 48
     },
     {
-      "firstName": "AJVAZ",
-      "lastName": "ABAZI",
       "fullName": "AJVAZ ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -50,8 +44,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "AVDI",
-      "lastName": "ABAZI",
       "fullName": "AVDI ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -64,8 +56,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "AVNI",
-      "lastName": "ABAZI",
       "fullName": "AVNI ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -78,8 +68,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "BASHKIM",
-      "lastName": "ABAZI",
       "fullName": "BASHKIM ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -92,8 +80,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "FADIL",
-      "lastName": "ABAZI",
       "fullName": "FADIL ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -106,8 +92,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "FATMIR",
-      "lastName": "ABAZI",
       "fullName": "FATMIR ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -120,8 +104,6 @@
       "ageAtIncident": 28
     },
     {
-      "firstName": "HALIL",
-      "lastName": "ABAZI",
       "fullName": "HALIL ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -134,8 +116,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ABAZI",
       "fullName": "HYSEN ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -148,8 +128,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "LIRIDON",
-      "lastName": "ABAZI",
       "fullName": "LIRIDON ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -162,8 +140,6 @@
       "ageAtIncident": 0
     },
     {
-      "firstName": "MARK",
-      "lastName": "ABAZI",
       "fullName": "MARK ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -176,8 +152,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "MAZLLUM",
-      "lastName": "ABAZI",
       "fullName": "MAZLLUM ABAZI",
       "gender": "m",
       "ethnicity": "Rom",
@@ -190,8 +164,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "MUSA",
-      "lastName": "ABAZI",
       "fullName": "MUSA ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -204,8 +176,6 @@
       "ageAtIncident": 59
     },
     {
-      "firstName": "MUSTAFË",
-      "lastName": "ABAZI",
       "fullName": "MUSTAFË ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -218,8 +188,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "NESRET",
-      "lastName": "ABAZI",
       "fullName": "NESRET ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -232,8 +200,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "PASHK",
-      "lastName": "ABAZI",
       "fullName": "PASHK ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -246,8 +212,6 @@
       "ageAtIncident": 40
     },
     {
-      "firstName": "PJETËR",
-      "lastName": "ABAZI",
       "fullName": "PJETËR ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -260,8 +224,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "SADRI",
-      "lastName": "ABAZI",
       "fullName": "SADRI ABAZI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -274,8 +236,6 @@
       "ageAtIncident": 65
     },
     {
-      "firstName": "EMSALE",
-      "lastName": "ABAZIBRA",
       "fullName": "EMSALE ABAZIBRA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -288,8 +248,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "FATIME",
-      "lastName": "ABAZIBRA",
       "fullName": "FATIME ABAZIBRA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -302,8 +260,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "JASMINE",
-      "lastName": "ABAZIBRA",
       "fullName": "JASMINE ABAZIBRA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -316,8 +272,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "JEMIN",
-      "lastName": "ABAZIBRA",
       "fullName": "JEMIN ABAZIBRA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -330,8 +284,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "MAGBULE",
-      "lastName": "ABAZIBRA",
       "fullName": "MAGBULE ABAZIBRA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -344,8 +296,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "MAKVIRE",
-      "lastName": "ABAZIBRA",
       "fullName": "MAKVIRE ABAZIBRA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -358,8 +308,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "RAMADAN",
-      "lastName": "ABAZIBRA",
       "fullName": "RAMADAN ABAZIBRA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -372,8 +320,6 @@
       "ageAtIncident": 60
     },
     {
-      "firstName": "SAHARA",
-      "lastName": "ABAZIBRA",
       "fullName": "SAHARA ABAZIBRA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -386,8 +332,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "ĐUZA",
-      "lastName": "ABAZOVIĆ",
       "fullName": "ĐUZA ABAZOVIĆ",
       "gender": "f",
       "ethnicity": "Boshnjak",
@@ -400,8 +344,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "HAJRADIN",
-      "lastName": "ABAZOVIĆ",
       "fullName": "HAJRADIN ABAZOVIĆ",
       "gender": "m",
       "ethnicity": "Boshnjak",
@@ -414,8 +356,6 @@
       "ageAtIncident": 28
     },
     {
-      "firstName": "ADRIANA",
-      "lastName": "ABDULLAHU",
       "fullName": "ADRIANA ABDULLAHU",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -428,8 +368,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "HAJRULLAH",
-      "lastName": "ABDULLAHU",
       "fullName": "HAJRULLAH ABDULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -442,8 +380,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "MIRSAD",
-      "lastName": "ABDULLAHU",
       "fullName": "MIRSAD ABDULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -456,8 +392,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "SADIK",
-      "lastName": "ABDULLAHU",
       "fullName": "SADIK ABDULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -470,8 +404,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "TEFIK",
-      "lastName": "ABDULLAHU",
       "fullName": "TEFIK ABDULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -484,8 +416,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "PAJAZIT",
-      "lastName": "ABDYLI",
       "fullName": "PAJAZIT ABDYLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -498,8 +428,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "RAFET",
-      "lastName": "ABDYLMEGJIT",
       "fullName": "RAFET ABDYLMEGJIT",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -512,8 +440,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "BEHAR",
-      "lastName": "ABDYLMEXHITI",
       "fullName": "BEHAR ABDYLMEXHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -526,8 +452,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "SAMI",
-      "lastName": "ABDYLMEXHITI",
       "fullName": "SAMI ABDYLMEXHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -540,8 +464,6 @@
       "ageAtIncident": 48
     },
     {
-      "firstName": "SHEFIK",
-      "lastName": "ABDYLMEXHITI",
       "fullName": "SHEFIK ABDYLMEXHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -554,8 +476,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "SABINA",
-      "lastName": "ABRASHI",
       "fullName": "SABINA ABRASHI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -568,8 +488,6 @@
       "ageAtIncident": 49
     },
     {
-      "firstName": "ZLATKO",
-      "lastName": "ACIĆ",
       "fullName": "ZLATKO ACIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -582,8 +500,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "AJMANE",
-      "lastName": "ADEMAJ",
       "fullName": "AJMANE ADEMAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -596,8 +512,6 @@
       "ageAtIncident": 69
     },
     {
-      "firstName": "AVDYL",
-      "lastName": "ADEMAJ",
       "fullName": "AVDYL ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -610,8 +524,6 @@
       "ageAtIncident": 68
     },
     {
-      "firstName": "BEKIM",
-      "lastName": "ADEMAJ",
       "fullName": "BEKIM ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -624,8 +536,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "FATOS",
-      "lastName": "ADEMAJ",
       "fullName": "FATOS ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -638,8 +548,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "GËZIM",
-      "lastName": "ADEMAJ",
       "fullName": "GËZIM ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -652,8 +560,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "HALIT",
-      "lastName": "ADEMAJ",
       "fullName": "HALIT ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -666,8 +572,6 @@
       "ageAtIncident": 40
     },
     {
-      "firstName": "HAMDI",
-      "lastName": "ADEMAJ",
       "fullName": "HAMDI ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -680,8 +584,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ADEMAJ",
       "fullName": "HYSEN ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -694,8 +596,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "ISLAM",
-      "lastName": "ADEMAJ",
       "fullName": "ISLAM ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -708,8 +608,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "KADRI",
-      "lastName": "ADEMAJ",
       "fullName": "KADRI ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -722,8 +620,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "KRESHNIK",
-      "lastName": "ADEMAJ",
       "fullName": "KRESHNIK ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -736,8 +632,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "PËLLUMB",
-      "lastName": "ADEMAJ",
       "fullName": "PËLLUMB ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -750,8 +644,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "RAME",
-      "lastName": "ADEMAJ",
       "fullName": "RAME ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -764,8 +656,6 @@
       "ageAtIncident": 74
     },
     {
-      "firstName": "REMZI",
-      "lastName": "ADEMAJ",
       "fullName": "REMZI ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -778,8 +668,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "SHEMSI",
-      "lastName": "ADEMAJ",
       "fullName": "SHEMSI ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -792,8 +680,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "VEZIR",
-      "lastName": "ADEMAJ",
       "fullName": "VEZIR ADEMAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -806,8 +692,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "ADEM",
-      "lastName": "ADEMI",
       "fullName": "ADEM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -820,8 +704,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "ADEM",
-      "lastName": "ADEMI",
       "fullName": "ADEM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -834,8 +716,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ADEMI",
       "fullName": "AGIM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -848,8 +728,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ADEMI",
       "fullName": "AGIM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -862,8 +740,6 @@
       "ageAtIncident": 28
     },
     {
-      "firstName": "AZEMINE",
-      "lastName": "ADEMI",
       "fullName": "AZEMINE ADEMI",
       "gender": "f",
       "ethnicity": "Boshnjak",
@@ -876,8 +752,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "BEDRI",
-      "lastName": "ADEMI",
       "fullName": "BEDRI ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -890,8 +764,6 @@
       "ageAtIncident": 43
     },
     {
-      "firstName": "BESNIK",
-      "lastName": "ADEMI",
       "fullName": "BESNIK ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -904,8 +776,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "BISLIM",
-      "lastName": "ADEMI",
       "fullName": "BISLIM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -918,8 +788,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "BLERIM",
-      "lastName": "ADEMI",
       "fullName": "BLERIM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -932,8 +800,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "BUJAR",
-      "lastName": "ADEMI",
       "fullName": "BUJAR ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -946,8 +812,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "BURIM",
-      "lastName": "ADEMI",
       "fullName": "BURIM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -960,8 +824,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "EJUP",
-      "lastName": "ADEMI",
       "fullName": "EJUP ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -974,8 +836,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "ESAT",
-      "lastName": "ADEMI",
       "fullName": "ESAT ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -988,8 +848,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "FADIL",
-      "lastName": "ADEMI",
       "fullName": "FADIL ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1002,8 +860,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "FADIL",
-      "lastName": "ADEMI",
       "fullName": "FADIL ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1016,8 +872,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "FAHRIJE",
-      "lastName": "ADEMI",
       "fullName": "FAHRIJE ADEMI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1030,8 +884,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "FATIME",
-      "lastName": "ADEMI",
       "fullName": "FATIME ADEMI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1044,8 +896,6 @@
       "ageAtIncident": 82
     },
     {
-      "firstName": "FATMIR",
-      "lastName": "ADEMI",
       "fullName": "FATMIR ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1058,8 +908,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "FATMIR",
-      "lastName": "ADEMI",
       "fullName": "FATMIR ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1072,8 +920,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "FETAH",
-      "lastName": "ADEMI",
       "fullName": "FETAH ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1086,8 +932,6 @@
       "ageAtIncident": 70
     },
     {
-      "firstName": "GANI",
-      "lastName": "ADEMI",
       "fullName": "GANI ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1100,8 +944,6 @@
       "ageAtIncident": 15
     },
     {
-      "firstName": "HAJDAR",
-      "lastName": "ADEMI",
       "fullName": "HAJDAR ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1114,8 +956,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "HAJZER",
-      "lastName": "ADEMI",
       "fullName": "HAJZER ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1128,8 +968,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "HAKI",
-      "lastName": "ADEMI",
       "fullName": "HAKI ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1142,8 +980,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "HALIT",
-      "lastName": "ADEMI",
       "fullName": "HALIT ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1156,8 +992,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "HAMDI",
-      "lastName": "ADEMI",
       "fullName": "HAMDI ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1170,8 +1004,6 @@
       "ageAtIncident": 58
     },
     {
-      "firstName": "HAMIT",
-      "lastName": "ADEMI",
       "fullName": "HAMIT ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1184,8 +1016,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "HASAN",
-      "lastName": "ADEMI",
       "fullName": "HASAN ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1198,8 +1028,6 @@
       "ageAtIncident": 86
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ADEMI",
       "fullName": "HYSEN ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1212,8 +1040,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "IBRAHIM",
-      "lastName": "ADEMI",
       "fullName": "IBRAHIM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1226,8 +1052,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "ILIR",
-      "lastName": "ADEMI",
       "fullName": "ILIR ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1240,8 +1064,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "ISMAIL",
-      "lastName": "ADEMI",
       "fullName": "ISMAIL ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1254,8 +1076,6 @@
       "ageAtIncident": 83
     },
     {
-      "firstName": "ISUF",
-      "lastName": "ADEMI",
       "fullName": "ISUF ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1268,8 +1088,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "ISUF",
-      "lastName": "ADEMI",
       "fullName": "ISUF ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1282,8 +1100,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "JETULLAH",
-      "lastName": "ADEMI",
       "fullName": "JETULLAH ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1296,8 +1112,6 @@
       "ageAtIncident": 15
     },
     {
-      "firstName": "MALIQ",
-      "lastName": "ADEMI",
       "fullName": "MALIQ ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1310,8 +1124,6 @@
       "ageAtIncident": 35
     },
     {
-      "firstName": "MAZLLAM",
-      "lastName": "ADEMI",
       "fullName": "MAZLLAM ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1324,8 +1136,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "MURSEL",
-      "lastName": "ADEMI",
       "fullName": "MURSEL ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1338,8 +1148,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "NEVZAT",
-      "lastName": "ADEMI",
       "fullName": "NEVZAT ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1352,8 +1160,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "RABA",
-      "lastName": "ADEMI",
       "fullName": "RABA ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1366,8 +1172,6 @@
       "ageAtIncident": 0
     },
     {
-      "firstName": "RAGIP",
-      "lastName": "ADEMI",
       "fullName": "RAGIP ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1380,8 +1184,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "RAHIME",
-      "lastName": "ADEMI",
       "fullName": "RAHIME ADEMI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1394,8 +1196,6 @@
       "ageAtIncident": 90
     },
     {
-      "firstName": "REXHЁP",
-      "lastName": "ADEMI",
       "fullName": "REXHЁP ADEMI",
       "gender": "m",
       "ethnicity": "Shqiptar",

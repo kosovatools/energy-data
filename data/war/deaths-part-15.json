@@ -8,8 +8,6 @@
   },
   "records": [
     {
-      "firstName": "ISA",
-      "lastName": "XHEMAJLAJ",
       "fullName": "ISA XHEMAJLAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -22,8 +20,6 @@
       "ageAtIncident": 54
     },
     {
-      "firstName": "LUMNIJE",
-      "lastName": "XHEMAJLAJ",
       "fullName": "LUMNIJE XHEMAJLAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -36,8 +32,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "MAHMUT",
-      "lastName": "XHEMAJLAJ",
       "fullName": "MAHMUT XHEMAJLAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -50,8 +44,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "MIFTAR",
-      "lastName": "XHEMAJLAJ",
       "fullName": "MIFTAR XHEMAJLAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -64,8 +56,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "RIFAT",
-      "lastName": "XHEMAJLAJ",
       "fullName": "RIFAT XHEMAJLAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -78,8 +68,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "SEFER",
-      "lastName": "XHEMAJLAJ",
       "fullName": "SEFER XHEMAJLAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -92,8 +80,6 @@
       "ageAtIncident": 82
     },
     {
-      "firstName": "SELE",
-      "lastName": "XHEMAJLAJ",
       "fullName": "SELE XHEMAJLAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -106,8 +92,6 @@
       "ageAtIncident": 2
     },
     {
-      "firstName": "SHPEND",
-      "lastName": "XHEMAJLAJ",
       "fullName": "SHPEND XHEMAJLAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -120,8 +104,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "UKЁ",
-      "lastName": "XHEMAJLAJ",
       "fullName": "UKЁ XHEMAJLAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -134,8 +116,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "AJET",
-      "lastName": "XHEMAJLI",
       "fullName": "AJET XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -148,8 +128,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "ASLLAN",
-      "lastName": "XHEMAJLI",
       "fullName": "ASLLAN XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -162,8 +140,6 @@
       "ageAtIncident": 67
     },
     {
-      "firstName": "BEKIM",
-      "lastName": "XHEMAJLI",
       "fullName": "BEKIM XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -176,8 +152,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "FIDAIM",
-      "lastName": "XHEMAJLI",
       "fullName": "FIDAIM XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -190,8 +164,6 @@
       "ageAtIncident": 8
     },
     {
-      "firstName": "IDRIZ",
-      "lastName": "XHEMAJLI",
       "fullName": "IDRIZ XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -204,8 +176,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "ILIR",
-      "lastName": "XHEMAJLI",
       "fullName": "ILIR XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -218,8 +188,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "MUHAREM",
-      "lastName": "XHEMAJLI",
       "fullName": "MUHAREM XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -232,8 +200,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "SHABAN",
-      "lastName": "XHEMAJLI",
       "fullName": "SHABAN XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -246,8 +212,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "SHKËLZEN",
-      "lastName": "XHEMAJLI",
       "fullName": "SHKËLZEN XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -260,8 +224,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "VALDET",
-      "lastName": "XHEMAJLI",
       "fullName": "VALDET XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -274,8 +236,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "XHEMAJL",
-      "lastName": "XHEMAJLI",
       "fullName": "XHEMAJL XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -288,8 +248,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "ZEQIR",
-      "lastName": "XHEMAJLI",
       "fullName": "ZEQIR XHEMAJLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -302,8 +260,6 @@
       "ageAtIncident": 82
     },
     {
-      "firstName": "ZYLFIE",
-      "lastName": "XHEMAJLI",
       "fullName": "ZYLFIE XHEMAJLI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -316,8 +272,6 @@
       "ageAtIncident": 15
     },
     {
-      "firstName": "XHEMSHIR",
-      "lastName": "XHEMSHIRI",
       "fullName": "XHEMSHIR XHEMSHIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -330,8 +284,6 @@
       "ageAtIncident": 41
     },
     {
-      "firstName": "BEJAM",
-      "lastName": "XHEMSHITI",
       "fullName": "BEJAM XHEMSHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -344,8 +296,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "HESAT",
-      "lastName": "XHEMSHITI",
       "fullName": "HESAT XHEMSHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -358,8 +308,6 @@
       "ageAtIncident": 61
     },
     {
-      "firstName": "LUTFI",
-      "lastName": "XHEMSHITI",
       "fullName": "LUTFI XHEMSHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -372,8 +320,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "ALAJDIN",
-      "lastName": "XHEZAIRI",
       "fullName": "ALAJDIN XHEZAIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -386,8 +332,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "AFRIM",
-      "lastName": "XHIBEXHIU",
       "fullName": "AFRIM XHIBEXHIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -400,8 +344,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "RAMADAN",
-      "lastName": "XHOKLI",
       "fullName": "RAMADAN XHOKLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -414,8 +356,6 @@
       "ageAtIncident": 28
     },
     {
-      "firstName": "XHAFER",
-      "lastName": "XHUKA",
       "fullName": "XHAFER XHUKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -428,8 +368,6 @@
       "ageAtIncident": null
     },
     {
-      "firstName": "FATON",
-      "lastName": "XHYLANI",
       "fullName": "FATON XHYLANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -442,8 +380,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "GANIMETE",
-      "lastName": "XHYLANI",
       "fullName": "GANIMETE XHYLANI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -456,8 +392,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "HAJDAR",
-      "lastName": "XHYLANI",
       "fullName": "HAJDAR XHYLANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -470,8 +404,6 @@
       "ageAtIncident": 54
     },
     {
-      "firstName": "SABIT",
-      "lastName": "XHYLANI",
       "fullName": "SABIT XHYLANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -484,8 +416,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "RUZHDI",
-      "lastName": "XHYLIQI",
       "fullName": "RUZHDI XHYLIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -498,8 +428,6 @@
       "ageAtIncident": 35
     },
     {
-      "firstName": "SHPEJTIM",
-      "lastName": "YMERAGA",
       "fullName": "SHPEJTIM YMERAGA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -512,8 +440,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "ASLLAN",
-      "lastName": "YMERI",
       "fullName": "ASLLAN YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -526,8 +452,6 @@
       "ageAtIncident": 69
     },
     {
-      "firstName": "FAHRIE",
-      "lastName": "YMERI",
       "fullName": "FAHRIE YMERI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -540,8 +464,6 @@
       "ageAtIncident": 72
     },
     {
-      "firstName": "FLORIM",
-      "lastName": "YMERI",
       "fullName": "FLORIM YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -554,8 +476,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "HAJRIZ",
-      "lastName": "YMERI",
       "fullName": "HAJRIZ YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -568,8 +488,6 @@
       "ageAtIncident": 76
     },
     {
-      "firstName": "ISLAM",
-      "lastName": "YMERI",
       "fullName": "ISLAM YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -582,8 +500,6 @@
       "ageAtIncident": 80
     },
     {
-      "firstName": "JETISH",
-      "lastName": "YMERI",
       "fullName": "JETISH YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -596,8 +512,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "MUSA",
-      "lastName": "YMERI",
       "fullName": "MUSA YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -610,8 +524,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "SHAIP",
-      "lastName": "YMERI",
       "fullName": "SHAIP YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -624,8 +536,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "SHEHIDE",
-      "lastName": "YMERI",
       "fullName": "SHEHIDE YMERI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -638,8 +548,6 @@
       "ageAtIncident": 57
     },
     {
-      "firstName": "SHKELQIM",
-      "lastName": "YMERI",
       "fullName": "SHKELQIM YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -652,8 +560,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "XHAFER",
-      "lastName": "YMERI",
       "fullName": "XHAFER YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -666,8 +572,6 @@
       "ageAtIncident": 67
     },
     {
-      "firstName": "XHEMAJL",
-      "lastName": "YMERI",
       "fullName": "XHEMAJL YMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -680,8 +584,6 @@
       "ageAtIncident": 61
     },
     {
-      "firstName": "ZAIM",
-      "lastName": "ZABELAJ",
       "fullName": "ZAIM ZABELAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -694,8 +596,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "BURIM",
-      "lastName": "ZABELI",
       "fullName": "BURIM ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -708,8 +608,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "HAJDAR",
-      "lastName": "ZABELI",
       "fullName": "HAJDAR ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -722,8 +620,6 @@
       "ageAtIncident": 81
     },
     {
-      "firstName": "HANA",
-      "lastName": "ZABELI",
       "fullName": "HANA ZABELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -736,8 +632,6 @@
       "ageAtIncident": 84
     },
     {
-      "firstName": "ISA",
-      "lastName": "ZABELI",
       "fullName": "ISA ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -750,8 +644,6 @@
       "ageAtIncident": 65
     },
     {
-      "firstName": "JASHAR",
-      "lastName": "ZABELI",
       "fullName": "JASHAR ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -764,8 +656,6 @@
       "ageAtIncident": 77
     },
     {
-      "firstName": "KADA",
-      "lastName": "ZABELI",
       "fullName": "KADA ZABELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -778,8 +668,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "KALTRINA",
-      "lastName": "ZABELI",
       "fullName": "KALTRINA ZABELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -792,8 +680,6 @@
       "ageAtIncident": 0
     },
     {
-      "firstName": "LATIF",
-      "lastName": "ZABELI",
       "fullName": "LATIF ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -806,8 +692,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "LIRIDON",
-      "lastName": "ZABELI",
       "fullName": "LIRIDON ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -820,8 +704,6 @@
       "ageAtIncident": 0
     },
     {
-      "firstName": "MEHDI",
-      "lastName": "ZABELI",
       "fullName": "MEHDI ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -834,8 +716,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "MEHMET",
-      "lastName": "ZABELI",
       "fullName": "MEHMET ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -848,8 +728,6 @@
       "ageAtIncident": 84
     },
     {
-      "firstName": "SADRI",
-      "lastName": "ZABELI",
       "fullName": "SADRI ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -862,8 +740,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "SHEFQET",
-      "lastName": "ZABELI",
       "fullName": "SHEFQET ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -876,8 +752,6 @@
       "ageAtIncident": 84
     },
     {
-      "firstName": "XHAFER",
-      "lastName": "ZABELI",
       "fullName": "XHAFER ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -890,8 +764,6 @@
       "ageAtIncident": 57
     },
     {
-      "firstName": "XHEMAJL",
-      "lastName": "ZABELI",
       "fullName": "XHEMAJL ZABELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -904,8 +776,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "ISË",
-      "lastName": "ZABERXHA",
       "fullName": "ISË ZABERXHA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -918,8 +788,6 @@
       "ageAtIncident": 85
     },
     {
-      "firstName": "ALEKSANDAR",
-      "lastName": "ZABUNOVIĆ",
       "fullName": "ALEKSANDAR ZABUNOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -932,8 +800,6 @@
       "ageAtIncident": 68
     },
     {
-      "firstName": "KRUNA",
-      "lastName": "ZABUNOVIĆ",
       "fullName": "KRUNA ZABUNOVIĆ",
       "gender": "f",
       "ethnicity": "Serb",
@@ -946,8 +812,6 @@
       "ageAtIncident": 68
     },
     {
-      "firstName": "SVILAN",
-      "lastName": "ZAFIROVIĆ",
       "fullName": "SVILAN ZAFIROVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -960,8 +824,6 @@
       "ageAtIncident": 74
     },
     {
-      "firstName": "SLAVOLJUB",
-      "lastName": "ZAGRAĐANIN",
       "fullName": "SLAVOLJUB ZAGRAĐANIN",
       "gender": "m",
       "ethnicity": "Serb",
@@ -974,8 +836,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "SHEFKI",
-      "lastName": "ZAGRAXHA",
       "fullName": "SHEFKI ZAGRAXHA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -988,8 +848,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "ESET",
-      "lastName": "ZAHITI",
       "fullName": "ESET ZAHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1002,8 +860,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "NAIM",
-      "lastName": "ZAHITI",
       "fullName": "NAIM ZAHITI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1016,8 +872,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "BINAK",
-      "lastName": "ZAJAJ",
       "fullName": "BINAK ZAJAJ",
       "gender": "m",
       "ethnicity": "Egjiptian",
@@ -1030,8 +884,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "OLIVER",
-      "lastName": "ZAJIĆ",
       "fullName": "OLIVER ZAJIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1044,8 +896,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "FAHRI",
-      "lastName": "ZANI",
       "fullName": "FAHRI ZANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1058,8 +908,6 @@
       "ageAtIncident": 40
     },
     {
-      "firstName": "IVAN",
-      "lastName": "ZARIĆ",
       "fullName": "IVAN ZARIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1072,8 +920,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "ERNES",
-      "lastName": "ZARIQI",
       "fullName": "ERNES ZARIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1086,8 +932,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "FLAMUR",
-      "lastName": "ZARIQI",
       "fullName": "FLAMUR ZARIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1100,8 +944,6 @@
       "ageAtIncident": 8
     },
     {
-      "firstName": "VEHBI",
-      "lastName": "ZASELLA",
       "fullName": "VEHBI ZASELLA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1114,8 +956,6 @@
       "ageAtIncident": 72
     },
     {
-      "firstName": "MUSTAFË",
-      "lastName": "ZATRIQI",
       "fullName": "MUSTAFË ZATRIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1128,8 +968,6 @@
       "ageAtIncident": 59
     },
     {
-      "firstName": "ĐORĐE",
-      "lastName": "ZDRAVKOVIĆ",
       "fullName": "ĐORĐE ZDRAVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1142,8 +980,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "MILOVAN",
-      "lastName": "ZDRAVKOVIĆ",
       "fullName": "MILOVAN ZDRAVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1156,8 +992,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "NEBOJŠA",
-      "lastName": "ZDRAVKOVIĆ",
       "fullName": "NEBOJŠA ZDRAVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1170,8 +1004,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "PREDRAG",
-      "lastName": "ZDRAVKOVIĆ",
       "fullName": "PREDRAG ZDRAVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1184,8 +1016,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "SLAVIŠA",
-      "lastName": "ZDRAVKOVIĆ",
       "fullName": "SLAVIŠA ZDRAVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1198,8 +1028,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "ZORAN",
-      "lastName": "ZDRAVKOVIĆ",
       "fullName": "ZORAN ZDRAVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -1212,8 +1040,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "BOŽANA",
-      "lastName": "ZEČEVIĆ",
       "fullName": "BOŽANA ZEČEVIĆ",
       "gender": "f",
       "ethnicity": "Serb",
@@ -1226,8 +1052,6 @@
       "ageAtIncident": 81
     },
     {
-      "firstName": "ZEJNULLAH",
-      "lastName": "ZEJNA",
       "fullName": "ZEJNULLAH ZEJNA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1240,8 +1064,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "MALË",
-      "lastName": "ZEJNAJ",
       "fullName": "MALË ZEJNAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1254,8 +1076,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "ZUKE",
-      "lastName": "ZEJNULLAHI",
       "fullName": "ZUKE ZEJNULLAHI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1268,8 +1088,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "AJETE",
-      "lastName": "ZEJNULLAHU",
       "fullName": "AJETE ZEJNULLAHU",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1282,8 +1100,6 @@
       "ageAtIncident": 70
     },
     {
-      "firstName": "BRAHIM",
-      "lastName": "ZEJNULLAHU",
       "fullName": "BRAHIM ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1296,8 +1112,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "ISMET",
-      "lastName": "ZEJNULLAHU",
       "fullName": "ISMET ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1310,8 +1124,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "JANUZ",
-      "lastName": "ZEJNULLAHU",
       "fullName": "JANUZ ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1324,8 +1136,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "MIFTAR",
-      "lastName": "ZEJNULLAHU",
       "fullName": "MIFTAR ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1338,8 +1148,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "MURTEZ",
-      "lastName": "ZEJNULLAHU",
       "fullName": "MURTEZ ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1352,8 +1160,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "NURADIN",
-      "lastName": "ZEJNULLAHU",
       "fullName": "NURADIN ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1366,8 +1172,6 @@
       "ageAtIncident": 49
     },
     {
-      "firstName": "SELIM",
-      "lastName": "ZEJNULLAHU",
       "fullName": "SELIM ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1380,8 +1184,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "SHEFQET",
-      "lastName": "ZEJNULLAHU",
       "fullName": "SHEFQET ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1394,8 +1196,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "SKËNDER",
-      "lastName": "ZEJNULLAHU",
       "fullName": "SKËNDER ZEJNULLAHU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1408,8 +1208,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ZEKA",
       "fullName": "AGIM ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1422,8 +1220,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "ASLLAN",
-      "lastName": "ZEKA",
       "fullName": "ASLLAN ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1436,8 +1232,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "EMIN",
-      "lastName": "ZEKA",
       "fullName": "EMIN ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1450,8 +1244,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "FARUK",
-      "lastName": "ZEKA",
       "fullName": "FARUK ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1464,8 +1256,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "FATIME",
-      "lastName": "ZEKA",
       "fullName": "FATIME ZEKA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1478,8 +1268,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "HABIB",
-      "lastName": "ZEKA",
       "fullName": "HABIB ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1492,8 +1280,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "HABIB",
-      "lastName": "ZEKA",
       "fullName": "HABIB ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1506,8 +1292,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "HANA",
-      "lastName": "ZEKA",
       "fullName": "HANA ZEKA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1520,8 +1304,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "HASAN",
-      "lastName": "ZEKA",
       "fullName": "HASAN ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1534,8 +1316,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "HASHIM",
-      "lastName": "ZEKA",
       "fullName": "HASHIM ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1548,8 +1328,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ZEKA",
       "fullName": "HYSEN ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1562,8 +1340,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "JAHIR",
-      "lastName": "ZEKA",
       "fullName": "JAHIR ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1576,8 +1352,6 @@
       "ageAtIncident": 48
     },
     {
-      "firstName": "MEHMET",
-      "lastName": "ZEKA",
       "fullName": "MEHMET ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1590,8 +1364,6 @@
       "ageAtIncident": 48
     },
     {
-      "firstName": "MILAZIM",
-      "lastName": "ZEKA",
       "fullName": "MILAZIM ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1604,8 +1376,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "MUSTAFЁ",
-      "lastName": "ZEKA",
       "fullName": "MUSTAFЁ ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1618,8 +1388,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "MYHEDIN",
-      "lastName": "ZEKA",
       "fullName": "MYHEDIN ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1632,8 +1400,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "n/a",
-      "lastName": "ZEKA",
       "fullName": "n/a ZEKA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1646,8 +1412,6 @@
       "ageAtIncident": 0
     },
     {
-      "firstName": "NAMIK",
-      "lastName": "ZEKA",
       "fullName": "NAMIK ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1660,8 +1424,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "NASER",
-      "lastName": "ZEKA",
       "fullName": "NASER ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1674,8 +1436,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "NEXHDET",
-      "lastName": "ZEKA",
       "fullName": "NEXHDET ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1688,8 +1448,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "NEXHMEDIN",
-      "lastName": "ZEKA",
       "fullName": "NEXHMEDIN ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1702,8 +1460,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "RESHAT",
-      "lastName": "ZEKA",
       "fullName": "RESHAT ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1716,8 +1472,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "SABILE",
-      "lastName": "ZEKA",
       "fullName": "SABILE ZEKA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1730,8 +1484,6 @@
       "ageAtIncident": 1
     },
     {
-      "firstName": "SAFETE",
-      "lastName": "ZEKA",
       "fullName": "SAFETE ZEKA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1744,8 +1496,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "SEBAHATE",
-      "lastName": "ZEKA",
       "fullName": "SEBAHATE ZEKA",
       "gender": "f",
       "ethnicity": "Rom",
@@ -1758,8 +1508,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "SHEFQET",
-      "lastName": "ZEKA",
       "fullName": "SHEFQET ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1772,8 +1520,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "SHPETIM",
-      "lastName": "ZEKA",
       "fullName": "SHPETIM ZEKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1786,8 +1532,6 @@
       "ageAtIncident": 35
     },
     {
-      "firstName": "VAHIDE",
-      "lastName": "ZEKA",
       "fullName": "VAHIDE ZEKA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1800,8 +1544,6 @@
       "ageAtIncident": 77
     },
     {
-      "firstName": "ZIZA",
-      "lastName": "ZEKA",
       "fullName": "ZIZA ZEKA",
       "gender": "f",
       "ethnicity": "Rom",
@@ -1814,8 +1556,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ZEKAJ",
       "fullName": "AGIM ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1828,8 +1568,6 @@
       "ageAtIncident": 28
     },
     {
-      "firstName": "BAJRAM",
-      "lastName": "ZEKAJ",
       "fullName": "BAJRAM ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1842,8 +1580,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "FARUK",
-      "lastName": "ZEKAJ",
       "fullName": "FARUK ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1856,8 +1592,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "HAJRIJE",
-      "lastName": "ZEKAJ",
       "fullName": "HAJRIJE ZEKAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1870,8 +1604,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "IBRAHIM",
-      "lastName": "ZEKAJ",
       "fullName": "IBRAHIM ZEKAJ",
       "gender": "m",
       "ethnicity": "Egjiptian",
@@ -1884,8 +1616,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "MEHMET",
-      "lastName": "ZEKAJ",
       "fullName": "MEHMET ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1898,8 +1628,6 @@
       "ageAtIncident": 69
     },
     {
-      "firstName": "MEHMET",
-      "lastName": "ZEKAJ",
       "fullName": "MEHMET ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1912,8 +1640,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "MILAZIM",
-      "lastName": "ZEKAJ",
       "fullName": "MILAZIM ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1926,8 +1652,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "MUSA",
-      "lastName": "ZEKAJ",
       "fullName": "MUSA ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1940,8 +1664,6 @@
       "ageAtIncident": 68
     },
     {
-      "firstName": "MUZLI",
-      "lastName": "ZEKAJ",
       "fullName": "MUZLI ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1954,8 +1676,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "QAZIM",
-      "lastName": "ZEKAJ",
       "fullName": "QAZIM ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1968,8 +1688,6 @@
       "ageAtIncident": 61
     },
     {
-      "firstName": "RAMIZ",
-      "lastName": "ZEKAJ",
       "fullName": "RAMIZ ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -1982,8 +1700,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "SHAHE",
-      "lastName": "ZEKAJ",
       "fullName": "SHAHE ZEKAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -1996,8 +1712,6 @@
       "ageAtIncident": 68
     },
     {
-      "firstName": "SYLEJMAN",
-      "lastName": "ZEKAJ",
       "fullName": "SYLEJMAN ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2010,8 +1724,6 @@
       "ageAtIncident": 68
     },
     {
-      "firstName": "XHAFER",
-      "lastName": "ZEKAJ",
       "fullName": "XHAFER ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2024,8 +1736,6 @@
       "ageAtIncident": 70
     },
     {
-      "firstName": "YMER",
-      "lastName": "ZEKAJ",
       "fullName": "YMER ZEKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2038,8 +1748,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "ZEJNEPE",
-      "lastName": "ZEKAJ",
       "fullName": "ZEJNEPE ZEKAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2052,8 +1760,6 @@
       "ageAtIncident": 63
     },
     {
-      "firstName": "AVDI",
-      "lastName": "ZEKIQI",
       "fullName": "AVDI ZEKIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2066,8 +1772,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "MILAZIM",
-      "lastName": "ZEKIQI",
       "fullName": "MILAZIM ZEKIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2080,8 +1784,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "SAMI",
-      "lastName": "ZEKIQI",
       "fullName": "SAMI ZEKIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2094,8 +1796,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "BISLIM",
-      "lastName": "ZEKOLLI",
       "fullName": "BISLIM ZEKOLLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2108,8 +1808,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "NURIJE",
-      "lastName": "ZEKOLLI",
       "fullName": "NURIJE ZEKOLLI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2122,8 +1820,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "SHEFKET",
-      "lastName": "ZEKOLLI",
       "fullName": "SHEFKET ZEKOLLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2136,8 +1832,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "XHEMAJL",
-      "lastName": "ZEKOLLI",
       "fullName": "XHEMAJL ZEKOLLI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2150,8 +1844,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "FIDAIM",
-      "lastName": "ZENA",
       "fullName": "FIDAIM ZENA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2164,8 +1856,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "HALIL",
-      "lastName": "ZENA",
       "fullName": "HALIL ZENA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2178,8 +1868,6 @@
       "ageAtIncident": 59
     },
     {
-      "firstName": "MEHREME",
-      "lastName": "ZENA",
       "fullName": "MEHREME ZENA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2192,8 +1880,6 @@
       "ageAtIncident": 61
     },
     {
-      "firstName": "ZEHRIJE",
-      "lastName": "ZENA",
       "fullName": "ZEHRIJE ZENA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2206,8 +1892,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "REXHEP",
-      "lastName": "ZENELAJ",
       "fullName": "REXHEP ZENELAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2220,8 +1904,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ZENELI",
       "fullName": "AGIM ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2234,8 +1916,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "ALI",
-      "lastName": "ZENELI",
       "fullName": "ALI ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2248,8 +1928,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "ARIF",
-      "lastName": "ZENELI",
       "fullName": "ARIF ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2262,8 +1940,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "AZEM",
-      "lastName": "ZENELI",
       "fullName": "AZEM ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2276,8 +1952,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "BEJTE",
-      "lastName": "ZENELI",
       "fullName": "BEJTE ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2290,8 +1964,6 @@
       "ageAtIncident": 58
     },
     {
-      "firstName": "BURHAN",
-      "lastName": "ZENELI",
       "fullName": "BURHAN ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2304,8 +1976,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "DRITON",
-      "lastName": "ZENELI",
       "fullName": "DRITON ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2318,8 +1988,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "ELMIE",
-      "lastName": "ZENELI",
       "fullName": "ELMIE ZENELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2332,8 +2000,6 @@
       "ageAtIncident": 9
     },
     {
-      "firstName": "FAZILE",
-      "lastName": "ZENELI",
       "fullName": "FAZILE ZENELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2346,8 +2012,6 @@
       "ageAtIncident": 67
     },
     {
-      "firstName": "FERIZ",
-      "lastName": "ZENELI",
       "fullName": "FERIZ ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2360,8 +2024,6 @@
       "ageAtIncident": 49
     },
     {
-      "firstName": "GJYLAZIM",
-      "lastName": "ZENELI",
       "fullName": "GJYLAZIM ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2374,8 +2036,6 @@
       "ageAtIncident": 58
     },
     {
-      "firstName": "HAJZER",
-      "lastName": "ZENELI",
       "fullName": "HAJZER ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2388,8 +2048,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "MILAIM",
-      "lastName": "ZENELI",
       "fullName": "MILAIM ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2402,8 +2060,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZENELI",
       "fullName": "MUHAMET ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2416,8 +2072,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZENELI",
       "fullName": "MUHAMET ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2430,8 +2084,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZENELI",
       "fullName": "MUHAMET ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2444,8 +2096,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "MUHARREM",
-      "lastName": "ZENELI",
       "fullName": "MUHARREM ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2458,8 +2108,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "MUSLI",
-      "lastName": "ZENELI",
       "fullName": "MUSLI ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2472,8 +2120,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "MYRTË",
-      "lastName": "ZENELI",
       "fullName": "MYRTË ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2486,8 +2132,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "NAZMI",
-      "lastName": "ZENELI",
       "fullName": "NAZMI ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2500,8 +2144,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "RABIJE",
-      "lastName": "ZENELI",
       "fullName": "RABIJE ZENELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2514,8 +2156,6 @@
       "ageAtIncident": 61
     },
     {
-      "firstName": "RAMADAN",
-      "lastName": "ZENELI",
       "fullName": "RAMADAN ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2528,8 +2168,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "RIFAT",
-      "lastName": "ZENELI",
       "fullName": "RIFAT ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2542,8 +2180,6 @@
       "ageAtIncident": 83
     },
     {
-      "firstName": "RUKIJE",
-      "lastName": "ZENELI",
       "fullName": "RUKIJE ZENELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2556,8 +2192,6 @@
       "ageAtIncident": 72
     },
     {
-      "firstName": "SADRI",
-      "lastName": "ZENELI",
       "fullName": "SADRI ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2570,8 +2204,6 @@
       "ageAtIncident": 49
     },
     {
-      "firstName": "SELIM",
-      "lastName": "ZENELI",
       "fullName": "SELIM ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2584,8 +2216,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "SYLEME",
-      "lastName": "ZENELI",
       "fullName": "SYLEME ZENELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2598,8 +2228,6 @@
       "ageAtIncident": 74
     },
     {
-      "firstName": "XHAVIT",
-      "lastName": "ZENELI",
       "fullName": "XHAVIT ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2612,8 +2240,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "ZADE",
-      "lastName": "ZENELI",
       "fullName": "ZADE ZENELI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -2626,8 +2252,6 @@
       "ageAtIncident": 11
     },
     {
-      "firstName": "ZENEL",
-      "lastName": "ZENELI",
       "fullName": "ZENEL ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2640,8 +2264,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "ZENEL",
-      "lastName": "ZENELI",
       "fullName": "ZENEL ZENELI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2654,8 +2276,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "HAXHI",
-      "lastName": "ZENUNAJ",
       "fullName": "HAXHI ZENUNAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2668,8 +2288,6 @@
       "ageAtIncident": 75
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZENUNAJ",
       "fullName": "MUHAMET ZENUNAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2682,8 +2300,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "AVNI",
-      "lastName": "ZENUNI",
       "fullName": "AVNI ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2696,8 +2312,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "BAJRAM",
-      "lastName": "ZENUNI",
       "fullName": "BAJRAM ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2710,8 +2324,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "BEKIM",
-      "lastName": "ZENUNI",
       "fullName": "BEKIM ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2724,8 +2336,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "BINAK",
-      "lastName": "ZENUNI",
       "fullName": "BINAK ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2738,8 +2348,6 @@
       "ageAtIncident": 0
     },
     {
-      "firstName": "DAUT",
-      "lastName": "ZENUNI",
       "fullName": "DAUT ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2752,8 +2360,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "HAXHI",
-      "lastName": "ZENUNI",
       "fullName": "HAXHI ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2766,8 +2372,6 @@
       "ageAtIncident": 35
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZENUNI",
       "fullName": "MUHAMET ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2780,8 +2384,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "NJAZI",
-      "lastName": "ZENUNI",
       "fullName": "NJAZI ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2794,8 +2396,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "SALI",
-      "lastName": "ZENUNI",
       "fullName": "SALI ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2808,8 +2408,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "SHEMSEDIN",
-      "lastName": "ZENUNI",
       "fullName": "SHEMSEDIN ZENUNI",
       "gender": "m",
       "ethnicity": "Ashkali",
@@ -2822,8 +2420,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "SOKOL",
-      "lastName": "ZENUNI",
       "fullName": "SOKOL ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2836,8 +2432,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "XHEVAT",
-      "lastName": "ZENUNI",
       "fullName": "XHEVAT ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2850,8 +2444,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "XHEVDET",
-      "lastName": "ZENUNI",
       "fullName": "XHEVDET ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2864,8 +2456,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "YLBER",
-      "lastName": "ZENUNI",
       "fullName": "YLBER ZENUNI",
       "gender": "m",
       "ethnicity": "Rom",
@@ -2878,8 +2468,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "ZENEL",
-      "lastName": "ZENUNI",
       "fullName": "ZENEL ZENUNI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2892,8 +2480,6 @@
       "ageAtIncident": 41
     },
     {
-      "firstName": "MALUSH",
-      "lastName": "ZEQAJ",
       "fullName": "MALUSH ZEQAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2906,8 +2492,6 @@
       "ageAtIncident": 54
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZEQAJ",
       "fullName": "MUHAMET ZEQAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2920,8 +2504,6 @@
       "ageAtIncident": 65
     },
     {
-      "firstName": "REXHE",
-      "lastName": "ZEQAJ",
       "fullName": "REXHE ZEQAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2934,8 +2516,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "HILMI",
-      "lastName": "ZEQIRAJ",
       "fullName": "HILMI ZEQIRAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2948,8 +2528,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "SADRI",
-      "lastName": "ZEQIRAJ",
       "fullName": "SADRI ZEQIRAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2962,8 +2540,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "SALI",
-      "lastName": "ZEQIRAJ",
       "fullName": "SALI ZEQIRAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2976,8 +2552,6 @@
       "ageAtIncident": 85
     },
     {
-      "firstName": "SKENDER",
-      "lastName": "ZEQIRAJ",
       "fullName": "SKENDER ZEQIRAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -2990,8 +2564,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ZEQIRI",
       "fullName": "AGIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3004,8 +2576,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ZEQIRI",
       "fullName": "AGIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3018,8 +2588,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "ALBAN",
-      "lastName": "ZEQIRI",
       "fullName": "ALBAN ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3032,8 +2600,6 @@
       "ageAtIncident": 4
     },
     {
-      "firstName": "ALBULENA",
-      "lastName": "ZEQIRI",
       "fullName": "ALBULENA ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3046,8 +2612,6 @@
       "ageAtIncident": 11
     },
     {
-      "firstName": "ALI",
-      "lastName": "ZEQIRI",
       "fullName": "ALI ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3060,8 +2624,6 @@
       "ageAtIncident": 67
     },
     {
-      "firstName": "ALMA",
-      "lastName": "ZEQIRI",
       "fullName": "ALMA ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3074,8 +2636,6 @@
       "ageAtIncident": 2
     },
     {
-      "firstName": "ALTIN",
-      "lastName": "ZEQIRI",
       "fullName": "ALTIN ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3088,8 +2648,6 @@
       "ageAtIncident": 10
     },
     {
-      "firstName": "ARSIM",
-      "lastName": "ZEQIRI",
       "fullName": "ARSIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3102,8 +2660,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "AVDYL",
-      "lastName": "ZEQIRI",
       "fullName": "AVDYL ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3116,8 +2672,6 @@
       "ageAtIncident": 77
     },
     {
-      "firstName": "AZEM",
-      "lastName": "ZEQIRI",
       "fullName": "AZEM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3130,8 +2684,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "BAJRAM",
-      "lastName": "ZEQIRI",
       "fullName": "BAJRAM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3144,8 +2696,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "BAJRAM",
-      "lastName": "ZEQIRI",
       "fullName": "BAJRAM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3158,8 +2708,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "BESART",
-      "lastName": "ZEQIRI",
       "fullName": "BESART ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3172,8 +2720,6 @@
       "ageAtIncident": 10
     },
     {
-      "firstName": "BESIM",
-      "lastName": "ZEQIRI",
       "fullName": "BESIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3186,8 +2732,6 @@
       "ageAtIncident": 15
     },
     {
-      "firstName": "BESIM",
-      "lastName": "ZEQIRI",
       "fullName": "BESIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3200,8 +2744,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "BLEDAR",
-      "lastName": "ZEQIRI",
       "fullName": "BLEDAR ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3214,8 +2756,6 @@
       "ageAtIncident": 8
     },
     {
-      "firstName": "BURBUQE",
-      "lastName": "ZEQIRI",
       "fullName": "BURBUQE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3228,8 +2768,6 @@
       "ageAtIncident": 13
     },
     {
-      "firstName": "DRITON",
-      "lastName": "ZEQIRI",
       "fullName": "DRITON ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3242,8 +2780,6 @@
       "ageAtIncident": 10
     },
     {
-      "firstName": "ELBASANE",
-      "lastName": "ZEQIRI",
       "fullName": "ELBASANE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3256,8 +2792,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "ELIFE",
-      "lastName": "ZEQIRI",
       "fullName": "ELIFE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3270,8 +2804,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "FATIME",
-      "lastName": "ZEQIRI",
       "fullName": "FATIME ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3284,8 +2816,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "FEJZË",
-      "lastName": "ZEQIRI",
       "fullName": "FEJZË ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3298,8 +2828,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "FLORIM",
-      "lastName": "ZEQIRI",
       "fullName": "FLORIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3312,8 +2840,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "GAZMEND",
-      "lastName": "ZEQIRI",
       "fullName": "GAZMEND ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3326,8 +2852,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "HALIM",
-      "lastName": "ZEQIRI",
       "fullName": "HALIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3340,8 +2864,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "HASAN",
-      "lastName": "ZEQIRI",
       "fullName": "HASAN ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3354,8 +2876,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "HETEM",
-      "lastName": "ZEQIRI",
       "fullName": "HETEM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3368,8 +2888,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "HYDA",
-      "lastName": "ZEQIRI",
       "fullName": "HYDA ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3382,8 +2900,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ZEQIRI",
       "fullName": "HYSEN ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3396,8 +2912,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "IBRAHIM",
-      "lastName": "ZEQIRI",
       "fullName": "IBRAHIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3410,8 +2924,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "KADA",
-      "lastName": "ZEQIRI",
       "fullName": "KADA ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3424,8 +2936,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "MIFTAR",
-      "lastName": "ZEQIRI",
       "fullName": "MIFTAR ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3438,8 +2948,6 @@
       "ageAtIncident": 60
     },
     {
-      "firstName": "MILAZIM",
-      "lastName": "ZEQIRI",
       "fullName": "MILAZIM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3452,8 +2960,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "MURAT",
-      "lastName": "ZEQIRI",
       "fullName": "MURAT ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3466,8 +2972,6 @@
       "ageAtIncident": 41
     },
     {
-      "firstName": "MUSA",
-      "lastName": "ZEQIRI",
       "fullName": "MUSA ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3480,8 +2984,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "MYRVETE",
-      "lastName": "ZEQIRI",
       "fullName": "MYRVETE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3494,8 +2996,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "MYRVETE",
-      "lastName": "ZEQIRI",
       "fullName": "MYRVETE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3508,8 +3008,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "NAZLIJE",
-      "lastName": "ZEQIRI",
       "fullName": "NAZLIJE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3522,8 +3020,6 @@
       "ageAtIncident": 12
     },
     {
-      "firstName": "NAZMIJE",
-      "lastName": "ZEQIRI",
       "fullName": "NAZMIJE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3536,8 +3032,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "NEBI",
-      "lastName": "ZEQIRI",
       "fullName": "NEBI ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3550,8 +3044,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "REFKI",
-      "lastName": "ZEQIRI",
       "fullName": "REFKI ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3564,8 +3056,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "RRUSTEM",
-      "lastName": "ZEQIRI",
       "fullName": "RRUSTEM ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3578,8 +3068,6 @@
       "ageAtIncident": 79
     },
     {
-      "firstName": "SADIK",
-      "lastName": "ZEQIRI",
       "fullName": "SADIK ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3592,8 +3080,6 @@
       "ageAtIncident": 49
     },
     {
-      "firstName": "SAHIT",
-      "lastName": "ZEQIRI",
       "fullName": "SAHIT ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3606,8 +3092,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "SANIJE",
-      "lastName": "ZEQIRI",
       "fullName": "SANIJE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3620,8 +3104,6 @@
       "ageAtIncident": 59
     },
     {
-      "firstName": "SEBAHATE",
-      "lastName": "ZEQIRI",
       "fullName": "SEBAHATE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3634,8 +3116,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "SEJDI",
-      "lastName": "ZEQIRI",
       "fullName": "SEJDI ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3648,8 +3128,6 @@
       "ageAtIncident": 68
     },
     {
-      "firstName": "SEJDI",
-      "lastName": "ZEQIRI",
       "fullName": "SEJDI ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3662,8 +3140,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "SHABAN",
-      "lastName": "ZEQIRI",
       "fullName": "SHABAN ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3676,8 +3152,6 @@
       "ageAtIncident": 47
     },
     {
-      "firstName": "SHABAN",
-      "lastName": "ZEQIRI",
       "fullName": "SHABAN ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3690,8 +3164,6 @@
       "ageAtIncident": 47
     },
     {
-      "firstName": "SHAQË",
-      "lastName": "ZEQIRI",
       "fullName": "SHAQË ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3704,8 +3176,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "SHAQIR",
-      "lastName": "ZEQIRI",
       "fullName": "SHAQIR ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3718,8 +3188,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "SHERIF",
-      "lastName": "ZEQIRI",
       "fullName": "SHERIF ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3732,8 +3200,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "SHKELZEN",
-      "lastName": "ZEQIRI",
       "fullName": "SHKELZEN ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3746,8 +3212,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "SOFIJE",
-      "lastName": "ZEQIRI",
       "fullName": "SOFIJE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3760,8 +3224,6 @@
       "ageAtIncident": 53
     },
     {
-      "firstName": "SUZANA",
-      "lastName": "ZEQIRI",
       "fullName": "SUZANA ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3774,8 +3236,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "VAHIDE",
-      "lastName": "ZEQIRI",
       "fullName": "VAHIDE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3788,8 +3248,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "XHEVRIJE",
-      "lastName": "ZEQIRI",
       "fullName": "XHEVRIJE ZEQIRI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3802,8 +3260,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "ZEQIR",
-      "lastName": "ZEQIRI",
       "fullName": "ZEQIR ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3816,8 +3272,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "ZEQIR",
-      "lastName": "ZEQIRI",
       "fullName": "ZEQIR ZEQIRI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3830,8 +3284,6 @@
       "ageAtIncident": 49
     },
     {
-      "firstName": "AFIJETE",
-      "lastName": "ZHABOTA",
       "fullName": "AFIJETE ZHABOTA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3844,8 +3296,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "AVNI",
-      "lastName": "ZHABOTA",
       "fullName": "AVNI ZHABOTA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3858,8 +3308,6 @@
       "ageAtIncident": 35
     },
     {
-      "firstName": "FADIL",
-      "lastName": "ZHABOTA",
       "fullName": "FADIL ZHABOTA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3872,8 +3320,6 @@
       "ageAtIncident": 12
     },
     {
-      "firstName": "FETIJE",
-      "lastName": "ZHABOTA",
       "fullName": "FETIJE ZHABOTA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3886,8 +3332,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "RRUSHE",
-      "lastName": "ZHABOTA",
       "fullName": "RRUSHE ZHABOTA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3900,8 +3344,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "SHERE",
-      "lastName": "ZHABOTA",
       "fullName": "SHERE ZHABOTA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -3914,8 +3356,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "BEDRI",
-      "lastName": "ZHARKU",
       "fullName": "BEDRI ZHARKU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3928,8 +3368,6 @@
       "ageAtIncident": 60
     },
     {
-      "firstName": "ILIR",
-      "lastName": "ZHARKU",
       "fullName": "ILIR ZHARKU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3942,8 +3380,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "MALIQ",
-      "lastName": "ZHARKU",
       "fullName": "MALIQ ZHARKU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3956,8 +3392,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "REMZI",
-      "lastName": "ZHARKU",
       "fullName": "REMZI ZHARKU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3970,8 +3404,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "NAIM",
-      "lastName": "ZHEGROVA",
       "fullName": "NAIM ZHEGROVA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3984,8 +3416,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "NASER",
-      "lastName": "ZHEGROVA",
       "fullName": "NASER ZHEGROVA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -3998,8 +3428,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "NAZMI",
-      "lastName": "ZHEGROVA",
       "fullName": "NAZMI ZHEGROVA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4012,8 +3440,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "SADIK",
-      "lastName": "ZHEGROVA",
       "fullName": "SADIK ZHEGROVA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4026,8 +3452,6 @@
       "ageAtIncident": 60
     },
     {
-      "firstName": "ADNAN",
-      "lastName": "ZHERKA",
       "fullName": "ADNAN ZHERKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4040,8 +3464,6 @@
       "ageAtIncident": null
     },
     {
-      "firstName": "ARBËNESHA",
-      "lastName": "ZHERKA",
       "fullName": "ARBËNESHA ZHERKA",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -4054,8 +3476,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "ELTON",
-      "lastName": "ZHERKA",
       "fullName": "ELTON ZHERKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4068,8 +3488,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "KASTRIOT",
-      "lastName": "ZHERKA",
       "fullName": "KASTRIOT ZHERKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4082,8 +3500,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "NEXHMEDIN",
-      "lastName": "ZHERKA",
       "fullName": "NEXHMEDIN ZHERKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4096,8 +3512,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "QAMIL",
-      "lastName": "ZHERKA",
       "fullName": "QAMIL ZHERKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4110,8 +3524,6 @@
       "ageAtIncident": 73
     },
     {
-      "firstName": "SADIK",
-      "lastName": "ZHERKA",
       "fullName": "SADIK ZHERKA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4124,8 +3536,6 @@
       "ageAtIncident": 82
     },
     {
-      "firstName": "IRFAN",
-      "lastName": "ZHILIVODA",
       "fullName": "IRFAN ZHILIVODA",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4138,8 +3548,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "LUSH",
-      "lastName": "ZHUBI",
       "fullName": "LUSH ZHUBI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4152,8 +3560,6 @@
       "ageAtIncident": 63
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZHUBI",
       "fullName": "MUHAMET ZHUBI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4166,8 +3572,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "SKENDER",
-      "lastName": "ZHUBI",
       "fullName": "SKENDER ZHUBI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4180,8 +3584,6 @@
       "ageAtIncident": 41
     },
     {
-      "firstName": "HARADIN",
-      "lastName": "ZHUJANI",
       "fullName": "HARADIN ZHUJANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4194,8 +3596,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "ABEDIN",
-      "lastName": "ZHUNIQI",
       "fullName": "ABEDIN ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4208,8 +3608,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "AGIM",
-      "lastName": "ZHUNIQI",
       "fullName": "AGIM ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4222,8 +3620,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "BAJRAM",
-      "lastName": "ZHUNIQI",
       "fullName": "BAJRAM ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4236,8 +3632,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "BILALL",
-      "lastName": "ZHUNIQI",
       "fullName": "BILALL ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4250,8 +3644,6 @@
       "ageAtIncident": 69
     },
     {
-      "firstName": "ÇLIRIM",
-      "lastName": "ZHUNIQI",
       "fullName": "ÇLIRIM ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4264,8 +3656,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "DARDAN",
-      "lastName": "ZHUNIQI",
       "fullName": "DARDAN ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4278,8 +3668,6 @@
       "ageAtIncident": 5
     },
     {
-      "firstName": "DARDANE",
-      "lastName": "ZHUNIQI",
       "fullName": "DARDANE ZHUNIQI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -4292,8 +3680,6 @@
       "ageAtIncident": 8
     },
     {
-      "firstName": "DESTAN",
-      "lastName": "ZHUNIQI",
       "fullName": "DESTAN ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4306,8 +3692,6 @@
       "ageAtIncident": 70
     },
     {
-      "firstName": "DHURATA",
-      "lastName": "ZHUNIQI",
       "fullName": "DHURATA ZHUNIQI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -4320,8 +3704,6 @@
       "ageAtIncident": 9
     },
     {
-      "firstName": "ESHREF",
-      "lastName": "ZHUNIQI",
       "fullName": "ESHREF ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4334,8 +3716,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "FATOS",
-      "lastName": "ZHUNIQI",
       "fullName": "FATOS ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4348,8 +3728,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ZHUNIQI",
       "fullName": "HYSEN ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4362,8 +3740,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "HYSNI",
-      "lastName": "ZHUNIQI",
       "fullName": "HYSNI ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4376,8 +3752,6 @@
       "ageAtIncident": 62
     },
     {
-      "firstName": "IBRAHIM",
-      "lastName": "ZHUNIQI",
       "fullName": "IBRAHIM ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4390,8 +3764,6 @@
       "ageAtIncident": 69
     },
     {
-      "firstName": "KASIM",
-      "lastName": "ZHUNIQI",
       "fullName": "KASIM ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4404,8 +3776,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "LABINOT",
-      "lastName": "ZHUNIQI",
       "fullName": "LABINOT ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4418,8 +3788,6 @@
       "ageAtIncident": 18
     },
     {
-      "firstName": "LUMNIJE",
-      "lastName": "ZHUNIQI",
       "fullName": "LUMNIJE ZHUNIQI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -4432,8 +3800,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "MEHDI",
-      "lastName": "ZHUNIQI",
       "fullName": "MEHDI ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4446,8 +3812,6 @@
       "ageAtIncident": 57
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZHUNIQI",
       "fullName": "MUHAMET ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4460,8 +3824,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "MUHARREM",
-      "lastName": "ZHUNIQI",
       "fullName": "MUHARREM ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4474,8 +3836,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "QAMIL",
-      "lastName": "ZHUNIQI",
       "fullName": "QAMIL ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4488,8 +3848,6 @@
       "ageAtIncident": 75
     },
     {
-      "firstName": "QEMAJL",
-      "lastName": "ZHUNIQI",
       "fullName": "QEMAJL ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4502,8 +3860,6 @@
       "ageAtIncident": 54
     },
     {
-      "firstName": "RESHIT",
-      "lastName": "ZHUNIQI",
       "fullName": "RESHIT ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4516,8 +3872,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "SHEMSI",
-      "lastName": "ZHUNIQI",
       "fullName": "SHEMSI ZHUNIQI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4530,8 +3884,6 @@
       "ageAtIncident": 51
     },
     {
-      "firstName": "BEHAR",
-      "lastName": "ZHUSHI",
       "fullName": "BEHAR ZHUSHI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4544,8 +3896,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "YMER",
-      "lastName": "ZHUSHI",
       "fullName": "YMER ZHUSHI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4558,8 +3908,6 @@
       "ageAtIncident": 35
     },
     {
-      "firstName": "IDRIZ",
-      "lastName": "ZHUTAJ",
       "fullName": "IDRIZ ZHUTAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4572,8 +3920,6 @@
       "ageAtIncident": 47
     },
     {
-      "firstName": "BEKIM",
-      "lastName": "ZIJA",
       "fullName": "BEKIM ZIJA",
       "gender": "m",
       "ethnicity": "Ashkali",
@@ -4586,8 +3932,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "BOJAN",
-      "lastName": "ZLATANOVIĆ",
       "fullName": "BOJAN ZLATANOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -4600,8 +3944,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "ALI",
-      "lastName": "ZOGAJ",
       "fullName": "ALI ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4614,8 +3956,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "ALI",
-      "lastName": "ZOGAJ",
       "fullName": "ALI ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4628,8 +3968,6 @@
       "ageAtIncident": 65
     },
     {
-      "firstName": "ARTAN",
-      "lastName": "ZOGAJ",
       "fullName": "ARTAN ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4642,8 +3980,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "BRAHIM",
-      "lastName": "ZOGAJ",
       "fullName": "BRAHIM ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4656,8 +3992,6 @@
       "ageAtIncident": 57
     },
     {
-      "firstName": "ELMI",
-      "lastName": "ZOGAJ",
       "fullName": "ELMI ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4670,8 +4004,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "ENVER",
-      "lastName": "ZOGAJ",
       "fullName": "ENVER ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4684,8 +4016,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "FADIL",
-      "lastName": "ZOGAJ",
       "fullName": "FADIL ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4698,8 +4028,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "FADIL",
-      "lastName": "ZOGAJ",
       "fullName": "FADIL ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4712,8 +4040,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "GANI",
-      "lastName": "ZOGAJ",
       "fullName": "GANI ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4726,8 +4052,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "HABIB",
-      "lastName": "ZOGAJ",
       "fullName": "HABIB ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4740,8 +4064,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "HAMIT",
-      "lastName": "ZOGAJ",
       "fullName": "HAMIT ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4754,8 +4076,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "RAMADAN",
-      "lastName": "ZOGAJ",
       "fullName": "RAMADAN ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4768,8 +4088,6 @@
       "ageAtIncident": 40
     },
     {
-      "firstName": "SALIH",
-      "lastName": "ZOGAJ",
       "fullName": "SALIH ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4782,8 +4100,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "SAMI",
-      "lastName": "ZOGAJ",
       "fullName": "SAMI ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4796,8 +4112,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "SHABAN",
-      "lastName": "ZOGAJ",
       "fullName": "SHABAN ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4810,8 +4124,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "VLORA",
-      "lastName": "ZOGAJ",
       "fullName": "VLORA ZOGAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -4824,8 +4136,6 @@
       "ageAtIncident": 16
     },
     {
-      "firstName": "ZYBER",
-      "lastName": "ZOGAJ",
       "fullName": "ZYBER ZOGAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4838,8 +4148,6 @@
       "ageAtIncident": 73
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ZOGIJANI",
       "fullName": "HYSEN ZOGIJANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4852,8 +4160,6 @@
       "ageAtIncident": 41
     },
     {
-      "firstName": "AHMET",
-      "lastName": "ZOGJANI",
       "fullName": "AHMET ZOGJANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4866,8 +4172,6 @@
       "ageAtIncident": 67
     },
     {
-      "firstName": "ARSIM",
-      "lastName": "ZOGJANI",
       "fullName": "ARSIM ZOGJANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4880,8 +4184,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "FATLON",
-      "lastName": "ZOGJANI",
       "fullName": "FATLON ZOGJANI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4894,8 +4196,6 @@
       "ageAtIncident": 11
     },
     {
-      "firstName": "RADENKO",
-      "lastName": "ZOGOVIĆ",
       "fullName": "RADENKO ZOGOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -4908,8 +4208,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "BALI",
-      "lastName": "ZOGU",
       "fullName": "BALI ZOGU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4922,8 +4220,6 @@
       "ageAtIncident": 43
     },
     {
-      "firstName": "FADIL",
-      "lastName": "ZUBAKU",
       "fullName": "FADIL ZUBAKU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4936,8 +4232,6 @@
       "ageAtIncident": 36
     },
     {
-      "firstName": "BLERIM",
-      "lastName": "ZUÇAKU",
       "fullName": "BLERIM ZUÇAKU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4950,8 +4244,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "BRAHIM",
-      "lastName": "ZUKAJ",
       "fullName": "BRAHIM ZUKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4964,8 +4256,6 @@
       "ageAtIncident": 73
     },
     {
-      "firstName": "HAZIR",
-      "lastName": "ZUKAJ",
       "fullName": "HAZIR ZUKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4978,8 +4268,6 @@
       "ageAtIncident": 60
     },
     {
-      "firstName": "KADRI",
-      "lastName": "ZUKAJ",
       "fullName": "KADRI ZUKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -4992,8 +4280,6 @@
       "ageAtIncident": 55
     },
     {
-      "firstName": "SADRI",
-      "lastName": "ZUKAJ",
       "fullName": "SADRI ZUKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5006,8 +4292,6 @@
       "ageAtIncident": 67
     },
     {
-      "firstName": "SHEFQET",
-      "lastName": "ZUKAJ",
       "fullName": "SHEFQET ZUKAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5020,8 +4304,6 @@
       "ageAtIncident": 54
     },
     {
-      "firstName": "BRAHIM",
-      "lastName": "ZULFAJ",
       "fullName": "BRAHIM ZULFAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5034,8 +4316,6 @@
       "ageAtIncident": 74
     },
     {
-      "firstName": "VEZIRE",
-      "lastName": "ZULFAJ",
       "fullName": "VEZIRE ZULFAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5048,8 +4328,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "BEQIR",
-      "lastName": "ZULFURI",
       "fullName": "BEQIR ZULFURI",
       "gender": "m",
       "ethnicity": "Rom",
@@ -5062,8 +4340,6 @@
       "ageAtIncident": 14
     },
     {
-      "firstName": "GJULIJE",
-      "lastName": "ZULFURI",
       "fullName": "GJULIJE ZULFURI",
       "gender": "f",
       "ethnicity": "Rom",
@@ -5076,8 +4352,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "KASANDRA",
-      "lastName": "ZULFURI",
       "fullName": "KASANDRA ZULFURI",
       "gender": "f",
       "ethnicity": "Rom",
@@ -5090,8 +4364,6 @@
       "ageAtIncident": 2
     },
     {
-      "firstName": "MAKSUM",
-      "lastName": "ZULFURI",
       "fullName": "MAKSUM ZULFURI",
       "gender": "m",
       "ethnicity": "Rom",
@@ -5104,8 +4376,6 @@
       "ageAtIncident": 2
     },
     {
-      "firstName": "DŽEMO",
-      "lastName": "ZULJI",
       "fullName": "DŽEMO ZULJI",
       "gender": "m",
       "ethnicity": "Boshnjak",
@@ -5118,8 +4388,6 @@
       "ageAtIncident": 46
     },
     {
-      "firstName": "ARDIAN",
-      "lastName": "ZURNAXHIU",
       "fullName": "ARDIAN ZURNAXHIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5132,8 +4400,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "GYLTENE",
-      "lastName": "ZUSHI",
       "fullName": "GYLTENE ZUSHI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5146,8 +4412,6 @@
       "ageAtIncident": 40
     },
     {
-      "firstName": "IBRAHIM",
-      "lastName": "ZUSHI",
       "fullName": "IBRAHIM ZUSHI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5160,8 +4424,6 @@
       "ageAtIncident": 40
     },
     {
-      "firstName": "MIRKO",
-      "lastName": "ZUVIĆ",
       "fullName": "MIRKO ZUVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5174,8 +4436,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "NENAD",
-      "lastName": "ZUVIĆ",
       "fullName": "NENAD ZUVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5188,8 +4448,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "ZORAN",
-      "lastName": "ZUVIĆ",
       "fullName": "ZORAN ZUVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5202,8 +4460,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "LULEZIM",
-      "lastName": "ZYBERAJ",
       "fullName": "LULEZIM ZYBERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5216,8 +4472,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "SABEJDIN",
-      "lastName": "ZYBERAJ",
       "fullName": "SABEJDIN ZYBERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5230,8 +4484,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "SEJDI",
-      "lastName": "ZYBERAJ",
       "fullName": "SEJDI ZYBERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5244,8 +4496,6 @@
       "ageAtIncident": 66
     },
     {
-      "firstName": "SHKELZEN",
-      "lastName": "ZYBERAJ",
       "fullName": "SHKELZEN ZYBERAJ",
       "gender": "m",
       "ethnicity": "Rom",
@@ -5258,8 +4508,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "ARBËR",
-      "lastName": "ZYBERI",
       "fullName": "ARBËR ZYBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5272,8 +4520,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "BEQIR",
-      "lastName": "ZYBERI",
       "fullName": "BEQIR ZYBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5286,8 +4532,6 @@
       "ageAtIncident": 61
     },
     {
-      "firstName": "GANI",
-      "lastName": "ZYBERI",
       "fullName": "GANI ZYBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5300,8 +4544,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "MENSUR",
-      "lastName": "ZYBERI",
       "fullName": "MENSUR ZYBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5314,8 +4556,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "SKËNDER",
-      "lastName": "ZYBERI",
       "fullName": "SKËNDER ZYBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5328,8 +4568,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "TAFIL",
-      "lastName": "ZYBERI",
       "fullName": "TAFIL ZYBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5342,8 +4580,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "AFRIM",
-      "lastName": "ZYLFIU",
       "fullName": "AFRIM ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5356,8 +4592,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "HALIM",
-      "lastName": "ZYLFIU",
       "fullName": "HALIM ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5370,8 +4604,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "HAMDI",
-      "lastName": "ZYLFIU",
       "fullName": "HAMDI ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5384,8 +4616,6 @@
       "ageAtIncident": 67
     },
     {
-      "firstName": "HAMIT",
-      "lastName": "ZYLFIU",
       "fullName": "HAMIT ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5398,8 +4628,6 @@
       "ageAtIncident": 24
     },
     {
-      "firstName": "HYSEN",
-      "lastName": "ZYLFIU",
       "fullName": "HYSEN ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5412,8 +4640,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "MUHAMET",
-      "lastName": "ZYLFIU",
       "fullName": "MUHAMET ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5426,8 +4652,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "NAZIM",
-      "lastName": "ZYLFIU",
       "fullName": "NAZIM ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5440,8 +4664,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "XHELAL",
-      "lastName": "ZYLFIU",
       "fullName": "XHELAL ZYLFIU",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5454,8 +4676,6 @@
       "ageAtIncident": 17
     },
     {
-      "firstName": "HALIL",
-      "lastName": "ZYMBERAJ",
       "fullName": "HALIL ZYMBERAJ",
       "gender": "m",
       "ethnicity": "Egjiptian",
@@ -5468,8 +4688,6 @@
       "ageAtIncident": 19
     },
     {
-      "firstName": "HAMZË",
-      "lastName": "ZYMBERAJ",
       "fullName": "HAMZË ZYMBERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5482,8 +4700,6 @@
       "ageAtIncident": 23
     },
     {
-      "firstName": "SHABAN",
-      "lastName": "ZYMBERAJ",
       "fullName": "SHABAN ZYMBERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5496,8 +4712,6 @@
       "ageAtIncident": 84
     },
     {
-      "firstName": "YMER",
-      "lastName": "ZYMBERAJ",
       "fullName": "YMER ZYMBERAJ",
       "gender": "m",
       "ethnicity": "Egjiptian",
@@ -5510,8 +4724,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "BAJRAM",
-      "lastName": "ZYMBERI",
       "fullName": "BAJRAM ZYMBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5524,8 +4736,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "FEHMI",
-      "lastName": "ZYMBERI",
       "fullName": "FEHMI ZYMBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5538,8 +4748,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "HANUMSHAHE",
-      "lastName": "ZYMBERI",
       "fullName": "HANUMSHAHE ZYMBERI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5552,8 +4760,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "LUMNIJE",
-      "lastName": "ZYMBERI",
       "fullName": "LUMNIJE ZYMBERI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5566,8 +4772,6 @@
       "ageAtIncident": 20
     },
     {
-      "firstName": "NYSRET",
-      "lastName": "ZYMBERI",
       "fullName": "NYSRET ZYMBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5580,8 +4784,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "TEFIK",
-      "lastName": "ZYMBERI",
       "fullName": "TEFIK ZYMBERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5594,8 +4796,6 @@
       "ageAtIncident": 38
     },
     {
-      "firstName": "AJNE",
-      "lastName": "ZYMERAJ",
       "fullName": "AJNE ZYMERAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5608,8 +4808,6 @@
       "ageAtIncident": 62
     },
     {
-      "firstName": "FETIJE",
-      "lastName": "ZYMERAJ",
       "fullName": "FETIJE ZYMERAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5622,8 +4820,6 @@
       "ageAtIncident": 57
     },
     {
-      "firstName": "RAME",
-      "lastName": "ZYMERAJ",
       "fullName": "RAME ZYMERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5636,8 +4832,6 @@
       "ageAtIncident": 73
     },
     {
-      "firstName": "RAZE",
-      "lastName": "ZYMERAJ",
       "fullName": "RAZE ZYMERAJ",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5650,8 +4844,6 @@
       "ageAtIncident": 72
     },
     {
-      "firstName": "SALI",
-      "lastName": "ZYMERAJ",
       "fullName": "SALI ZYMERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5664,8 +4856,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "VESEL",
-      "lastName": "ZYMERAJ",
       "fullName": "VESEL ZYMERAJ",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5678,8 +4868,6 @@
       "ageAtIncident": 70
     },
     {
-      "firstName": "AFRIM",
-      "lastName": "ZYMERI",
       "fullName": "AFRIM ZYMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5692,8 +4880,6 @@
       "ageAtIncident": 25
     },
     {
-      "firstName": "ARSIM",
-      "lastName": "ZYMERI",
       "fullName": "ARSIM ZYMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5706,8 +4892,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "AZEM",
-      "lastName": "ZYMERI",
       "fullName": "AZEM ZYMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5720,8 +4904,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "BESIME",
-      "lastName": "ZYMERI",
       "fullName": "BESIME ZYMERI",
       "gender": "f",
       "ethnicity": "Shqiptar",
@@ -5734,8 +4916,6 @@
       "ageAtIncident": 15
     },
     {
-      "firstName": "FETAH",
-      "lastName": "ZYMERI",
       "fullName": "FETAH ZYMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5748,8 +4928,6 @@
       "ageAtIncident": 64
     },
     {
-      "firstName": "NAZMI",
-      "lastName": "ZYMERI",
       "fullName": "NAZMI ZYMERI",
       "gender": "m",
       "ethnicity": "Ashkali",
@@ -5762,8 +4940,6 @@
       "ageAtIncident": 41
     },
     {
-      "firstName": "NIJAZI",
-      "lastName": "ZYMERI",
       "fullName": "NIJAZI ZYMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5776,8 +4952,6 @@
       "ageAtIncident": 45
     },
     {
-      "firstName": "QERIM",
-      "lastName": "ZYMERI",
       "fullName": "QERIM ZYMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5790,8 +4964,6 @@
       "ageAtIncident": 71
     },
     {
-      "firstName": "SHYQERI",
-      "lastName": "ZYMERI",
       "fullName": "SHYQERI ZYMERI",
       "gender": "m",
       "ethnicity": "Shqiptar",
@@ -5804,8 +4976,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "RADE",
-      "lastName": "ŽIGIĆ",
       "fullName": "RADE ŽIGIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5818,8 +4988,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "LJILJANA",
-      "lastName": "ŽIKIĆ KARAĐORĐEVIĆ",
       "fullName": "LJILJANA ŽIKIĆ KARAĐORĐEVIĆ",
       "gender": "f",
       "ethnicity": "Serb",
@@ -5832,8 +5000,6 @@
       "ageAtIncident": 42
     },
     {
-      "firstName": "RAJKO",
-      "lastName": "ŽILIĆ",
       "fullName": "RAJKO ŽILIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5846,8 +5012,6 @@
       "ageAtIncident": 37
     },
     {
-      "firstName": "GORAN",
-      "lastName": "ŽIVADINOVIĆ",
       "fullName": "GORAN ŽIVADINOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5860,8 +5024,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "BRANISLAV",
-      "lastName": "ŽIVALJEVIĆ",
       "fullName": "BRANISLAV ŽIVALJEVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5874,8 +5036,6 @@
       "ageAtIncident": 48
     },
     {
-      "firstName": "STANKA",
-      "lastName": "ŽIVALJEVIĆ",
       "fullName": "STANKA ŽIVALJEVIĆ",
       "gender": "f",
       "ethnicity": "Serb",
@@ -5888,8 +5048,6 @@
       "ageAtIncident": 75
     },
     {
-      "firstName": "RADMILA",
-      "lastName": "ŽIVANOVIĆ",
       "fullName": "RADMILA ŽIVANOVIĆ",
       "gender": "f",
       "ethnicity": "Serb",
@@ -5902,8 +5060,6 @@
       "ageAtIncident": 6
     },
     {
-      "firstName": "SVETLANA",
-      "lastName": "ŽIVANOVIĆ",
       "fullName": "SVETLANA ŽIVANOVIĆ",
       "gender": "f",
       "ethnicity": "Serb",
@@ -5916,8 +5072,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "BRANISLAV",
-      "lastName": "ŽIVIĆ",
       "fullName": "BRANISLAV ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5930,8 +5084,6 @@
       "ageAtIncident": 61
     },
     {
-      "firstName": "DRAGAN",
-      "lastName": "ŽIVIĆ",
       "fullName": "DRAGAN ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5944,8 +5096,6 @@
       "ageAtIncident": 41
     },
     {
-      "firstName": "GORAN",
-      "lastName": "ŽIVIĆ",
       "fullName": "GORAN ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5958,8 +5108,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "JOVICA",
-      "lastName": "ŽIVIĆ",
       "fullName": "JOVICA ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5972,8 +5120,6 @@
       "ageAtIncident": 29
     },
     {
-      "firstName": "MILAN",
-      "lastName": "ŽIVIĆ",
       "fullName": "MILAN ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -5986,8 +5132,6 @@
       "ageAtIncident": 73
     },
     {
-      "firstName": "MIODRAG",
-      "lastName": "ŽIVIĆ",
       "fullName": "MIODRAG ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6000,8 +5144,6 @@
       "ageAtIncident": 54
     },
     {
-      "firstName": "MOMČILO",
-      "lastName": "ŽIVIĆ",
       "fullName": "MOMČILO ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6014,8 +5156,6 @@
       "ageAtIncident": 30
     },
     {
-      "firstName": "RADOVAN",
-      "lastName": "ŽIVIĆ",
       "fullName": "RADOVAN ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6028,8 +5168,6 @@
       "ageAtIncident": 32
     },
     {
-      "firstName": "VOJIMIR",
-      "lastName": "ŽIVIĆ",
       "fullName": "VOJIMIR ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6042,8 +5180,6 @@
       "ageAtIncident": 72
     },
     {
-      "firstName": "ZORAN",
-      "lastName": "ŽIVIĆ",
       "fullName": "ZORAN ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6056,8 +5192,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "ZORAN",
-      "lastName": "ŽIVIĆ",
       "fullName": "ZORAN ŽIVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6070,8 +5204,6 @@
       "ageAtIncident": 34
     },
     {
-      "firstName": "DRAGAN",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "DRAGAN ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6084,8 +5216,6 @@
       "ageAtIncident": 39
     },
     {
-      "firstName": "DRAGAN",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "DRAGAN ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6098,8 +5228,6 @@
       "ageAtIncident": 33
     },
     {
-      "firstName": "GORAN",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "GORAN ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6112,8 +5240,6 @@
       "ageAtIncident": 28
     },
     {
-      "firstName": "ILIJA",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "ILIJA ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6126,8 +5252,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "IVAN",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "IVAN ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6140,8 +5264,6 @@
       "ageAtIncident": 26
     },
     {
-      "firstName": "LJUBIVOJ",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "LJUBIVOJ ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6154,8 +5276,6 @@
       "ageAtIncident": 22
     },
     {
-      "firstName": "MILUTIN",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "MILUTIN ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6168,8 +5288,6 @@
       "ageAtIncident": 74
     },
     {
-      "firstName": "MIRKO",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "MIRKO ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6182,8 +5300,6 @@
       "ageAtIncident": 31
     },
     {
-      "firstName": "MOMČILO",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "MOMČILO ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6196,8 +5312,6 @@
       "ageAtIncident": 21
     },
     {
-      "firstName": "PAUN",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "PAUN ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6210,8 +5324,6 @@
       "ageAtIncident": 52
     },
     {
-      "firstName": "SVETISLAV",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "SVETISLAV ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6224,8 +5336,6 @@
       "ageAtIncident": 44
     },
     {
-      "firstName": "TODOR",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "TODOR ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6238,8 +5348,6 @@
       "ageAtIncident": 50
     },
     {
-      "firstName": "VLASTIMIR",
-      "lastName": "ŽIVKOVIĆ",
       "fullName": "VLASTIMIR ŽIVKOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6252,8 +5360,6 @@
       "ageAtIncident": 56
     },
     {
-      "firstName": "DEJAN",
-      "lastName": "ŽIVOJINOVIĆ",
       "fullName": "DEJAN ŽIVOJINOVIĆ",
       "gender": "m",
       "ethnicity": "Serb",
@@ -6266,8 +5372,6 @@
       "ageAtIncident": 27
     },
     {
-      "firstName": "ZORKA",
-      "lastName": "ŽIŽIĆ",
       "fullName": "ZORKA ŽIŽIĆ",
       "gender": "f",
       "ethnicity": "Serb",
